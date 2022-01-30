@@ -1,0 +1,16 @@
+/*05-grouping selectors*/
+
+.f-element,.s-element{
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+}
+
+.f-element{
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.s-element{
+    background-color: #ffff00;
+}
+
